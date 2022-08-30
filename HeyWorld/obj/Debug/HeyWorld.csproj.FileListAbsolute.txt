@@ -1,0 +1,8 @@
+C:\Source\repos\HeyWorld\HeyWorld\bin\Debug\HeyWorld.exe.config
+C:\Source\repos\HeyWorld\HeyWorld\bin\Debug\HeyWorld.exe
+C:\Source\repos\HeyWorld\HeyWorld\bin\Debug\HeyWorld.pdb
+C:\Source\repos\HeyWorld\HeyWorld\obj\Debug\HeyWorld.csproj.AssemblyReference.cache
+C:\Source\repos\HeyWorld\HeyWorld\obj\Debug\HeyWorld.csproj.SuggestedBindingRedirects.cache
+C:\Source\repos\HeyWorld\HeyWorld\obj\Debug\HeyWorld.csproj.CoreCompileInputs.cache
+C:\Source\repos\HeyWorld\HeyWorld\obj\Debug\HeyWorld.exe
+C:\Source\repos\HeyWorld\HeyWorld\obj\Debug\HeyWorld.pdb
